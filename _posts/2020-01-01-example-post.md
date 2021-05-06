@@ -2,6 +2,6 @@
 published: true
 ---
 
-## Example post
+## Documentation server created!
 
-This is an example post. You can edit it or create a new one
+VMS now has a legit docs server. Cool beans
